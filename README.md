@@ -5,7 +5,7 @@
     <a href="https://twitter.com/omlondhe2133" target="blank">
         <img src="https://img.shields.io/twitter/follow/omlondhe2133?logo=twitter&style=social" alt="omlondhe2133" />
     </a>
-    <a href="https://www.youtube.com/@omlondhe" target="blank">
+    <a href="https://www.youtube.com/@CodEdByOm" target="blank">
         <img src="https://img.shields.io/youtube/channel/views/UCnyll20S7UJkXWvG0lVCGTw?logo=youtube&style=social"
             alt="omlondhe2133" />
     </a>
@@ -36,9 +36,6 @@ const information = {
 };
 
 ```
-
-<a href="https://app.daily.dev/omlondhe185"><img src="https://api.daily.dev/devcards/v2/USyxN1GPx9mu43dcLJdur.png?type=wide&r=gzs" width="100%" alt="Om Londhe's Dev Card"/></a>
-
 <img
     src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true" width="100%" />
 
